@@ -1,0 +1,3 @@
+YWozgH8cCI0Nu6gN
+
+mongodb+srv://yasinhirani:<password>@youtube-clone.4sxs7d6.mongodb.net/?retryWrites=true&w=majority
